@@ -2,6 +2,7 @@
 title: "Hello Cloudflare"
 description: "我的第一篇 Cloudflare 博客文章"
 pubDate: 2026-10-06
+heroImage: "/blog-placeholder-4.jpg"
 ---
 
 # Hello Cloudflare
